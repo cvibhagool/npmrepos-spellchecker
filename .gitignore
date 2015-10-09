@@ -1,0 +1,3 @@
+#Output data of the scraper
+*.json
+*.csv
